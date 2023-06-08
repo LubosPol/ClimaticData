@@ -26,3 +26,4 @@ Zdroje dat:
     - oprava chyby hodnot v tabulce na spodu stránky "Změny teplot",
     - přejmenování nadpisů stránek "Změny teplot" a "Závislosti",
     - úprava na stránce "Závislosti": v průřezu jsem přesunul "World" na pvní místo řazení.
+    
